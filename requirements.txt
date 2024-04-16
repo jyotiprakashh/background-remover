@@ -2,3 +2,4 @@ rembg
 Pillow
 numba
 numpy
+streamlit
